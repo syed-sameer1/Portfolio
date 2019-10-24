@@ -25,10 +25,21 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-Skills
-|||||| |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-| |HTML5|CSS3|Javascript (ES5/ES6/ES7/ES8)|Typescript| |Jquery|Lodash|Rxjs|Redux|ngRx| |AngularFire|AngularFire2| |Angularjs|Angular|React|Vue| |Ionic1|Ionic2/3|React Native| |Nodejs|Expressjs|Mongoosejs|Sequelizejs|Firebase Admin| |Amazon Web Services (EC2, EB)|AWS Lambda Functions via Serverless Framework|Amazon S3 Storage| |Firebase Authentication|Firebase Cloud Messenging|Firebase Cloud Functions|Firebase Storage| |MongoDB|MySQL|Firebase Realtime Database| |JWT Token|Firebase Security rules using Bolt| |Git|Github|Bitbuket|
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Skills
 
+||||||
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|**Typescript**|
+|**Jquery**|**Lodash**|**Rxjs**|**Redux**|**ngRx**|
+|**AngularFire**|**AngularFire2**|
+|**Angularjs**|**Angular**|**React**|**Vue**|
+|**Ionic1**|**Ionic2/3**|**React Native**|
+|**Nodejs**|**Expressjs**|**Mongoosejs**|**Sequelizejs**|**Firebase Admin**|
+|**Amazon Web Services (EC2, EB)**|**AWS Lambda Functions via Serverless Framework**|**Amazon S3 Storage**|
+|**Firebase Authentication**|**Firebase Cloud Messenging**|**Firebase Cloud Functions**|**Firebase Storage**|
+|**MongoDB**|**MySQL**|**Firebase Realtime Database**|
+|**JWT Token**|**Firebase Security rules using Bolt**|
+|**Git**|**Github**|**Bitbuket**|
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syed-sameer1/protfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
