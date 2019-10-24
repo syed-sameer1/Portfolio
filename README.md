@@ -1,22 +1,8 @@
-# Muhammad Kamran
+# Syed Muhammad Sameer
 
 > I am an experienced, enthusiastic and self-motivated Full Stack Mobile First Web Developer with a great passion for Javascript, TypeScript, AngularJS/ Angular, Ionic, React, Bootstrap, Materialize, Flexbox, RxJs, Redux, ngRx, Gulp, WebPack, NodeJS/ExpressJS, Heruko, AWS Services, Serverless (AWS Lambda) MongoDB, MySql, Google Firebase.
 
 ***
-
-## Startups
-
-### Stack Innovations
-
-> A services based startup providing web and mobile application development service using bleeding edge technologies.
-
-[stackinnovations.io](stackinnovations.io)
-
-#### devncode
-
- > A local tech community based in Karachi, Pakistan. Solving problems community growth by bringing more Technical Speakers who haven't speak before but are professional in the field and becoming a bridge between multiple communities, software houses, startups, and universities.
-
-[devncode.tech](devncode.tech)
 
 ## Skills
 
@@ -38,123 +24,23 @@
 
 ## Projects
 
-#### WebApps
+#### React
 
-1. **Surewire**
+1. **GitHub-clone: :** [https://github-clone.syedsameer.now.sh/](https://github-clone.syedsameer.now.sh/)
 
-    **Technologies:** Angular 2, Materialize, Rxjs, AngularFire2, Firebase
+1. **Game-House: :** [https://game-hosue.syedsameer.now.sh/](https://game-hosue.syedsameer.now.sh/)
 
-    **Link:** [https://feed.superwire.io/feeds](https://feed.superwire.io/feeds)
+#### JavaScript
 
-2. **OnSeen**
-    
-    **Technologies:** Angular 2, Ngrx, Redux, Bootstrap, MySql, Serverless (AWS Lambda)
-    
-    **Link:** [http://www.onseen.com/](http://www.onseen.com/)
+1. **Timer: :** [https://syed-sameer1.github.io/timer/](https://syed-sameer1.github.io/timer/)
 
-3. **Skky Wireless**
+2. **Stop-watch: :** [https://syed-sameer1.github.io/watch/](https://syed-sameer1.github.io/watch/)
 
-    **Technologies:** Angular 1, Bootstrap, Mongodb, Expressjs, Nodejs
+3. **WhatsApp-clone <API>: :** [https://syed-sameer1.github.io/whatsapp/](https://syed-sameer1.github.io/whatsapp/)
 
-    **Link:** [https://www.skkywireless.com/](https://www.skkywireless.com/)
+4. **Super-mart: :** [https://syed-sameer1.github.io/super-mart/](https://syed-sameer1.github.io/super-mart/)
 
-4. **4Stay**
 
-    **Technologies:** Angular 1, Bootstrap, Mongodb, Expressjs, Nodejs
-    
-    **Link:** [https://www.4stay.com/](https://www.4stay.com/)
-
-5. **CourseBook University**
-
-    **Technologies:** Angular 1, Bootstrap, Firebase, Nodejs
-
-    **Link:** [http://coursebooku.com/](http://coursebooku.com/)
-
-6. **Sleeping Bus**
-
-    **Technologies:** Angular 1, Materialize, Firebase, Nodejs, , Serverless (AWS Lambda)
-
-    **Link:** [https://www.sleepingbus.com/](https://www.sleepingbus.com/)
-
-7. **dartFrog Admin Dashboards**
-
-    **Technologies:** React, Redux, Redux-Observable, React-Redux-Firebase, Firebase, Axios, Serverless (AWS Lambda), MySql
-
-    **Link:** [http://admin.dartfrog.com.au](http://admin.dartfrog.com.au)
-
-9. **dartFrog Guardian Dashboards**
-
-    **Technologies:** React, Redux, Redux-Observable, React-Redux-Firebase, Firebase, Axios, Serverless (AWS Lambda), MySql
-
-    **Link:** [http://guardian.dartfrog.com.au](http://admin.dartfrog.com.au)
-
-10. **dartFrog Manager Dashboards**
-
-    **Technologies:** React, Redux, Redux-Observable, React-Redux-Firebase, Firebase, Axios, Serverless (AWS Lambda), MySql
-
-    **Link:** [http://manager.dartfrog.com.au](http://admin.dartfrog.com.au)
-
-11. **Section3300**
-
-    **Technologies:** React, Redux, Redux Obserable, Rxjs, Nodejs (AWS EC2), MySql (AWS RDS)
-
-    **Link:** [http://section3300.com](http://section3300.com)
-
-#### Hybrid Apps
-
-1. **dartFrog Cloud**
-
-    **Technologies:** Ionic 2, Rxjs, NgRedux, Serverless (AWS Lambda), MySql, Firebase Database, Firebase Functions, Firebase Cloud Messaging
-
-    **Links:** [http://dartfrog.cloud/](http://dartfrog.cloud/)
-    
-    **Playstore:** [play.google.com](https://play.google.com/store/apps/details?id=cloud.dartfrog.basic)
-
-    **Appstore:** [itunes.appgle.com](https://itunes.apple.com/us/app/dartfrog-cloud/id1201223764?ls=1&mt=8)
-
-2. **dartFrog Plus**
-
-    **Technologies:** Ionic 2, Rxjs, NgRedux, Serverless (AWS Lambda), MySql, Firebase Database, Firebase Functions, Firebase Cloud Messaging
-
-    **Links:** [http://dartfrog.cloud/](http://dartfrog.cloud/)
-    
-    **Playstore:** [play.google.com](https://play.google.com/store/apps/details?id=cloud.dartfrog.plus)
-
-    **Appstore:** [itunes.appgle.com](https://itunes.apple.com/us/app/dartfrog-plus/id1227101953?ls=1&mt=8)
-
-3. **dartFrog Business**
-
-    **Technologies:** Ionic 2, Rxjs, NgRedux, Serverless (AWS Lambda), MySql, Firebase Database, Firebase Functions, Firebase Cloud Messaging
-
-    **Links:** [http://dartfrog.cloud/](http://dartfrog.cloud/)
-    
-    **Playstore:** [play.google.com](https://play.google.com/store/apps/details?id=cloud.dartfrog.business)
-
-    **Appstore:** [itunes.appgle.com](https://itunes.apple.com/th/app/dartfrog-cloud-business-soho/id1244686179?mt=8)
-
-4. **Ucard**
-
-    **Technologies:** Ionic 2, Rxjs, NgRedux, Serverless (AWS Lambda), MySql
-
-    **Links:** [http://ucard.cloud/](http://ucard.cloud/)
-    
-    **Playstore:** [play.google.com](https://play.google.com/store/apps/details?id=cloud.ucard.basic)
-
-    **Appstore:** [itunes.apple.com](https://itunes.apple.com/us/app/ucard-cloud/id1216466125?ls=1&mt=8)
-
-5. **Referime**
-
-    **Technologies:** Ionic 2, Rxjs, AngularFire2, Firebase, Firebase Functions, Firebase Cloud Notifications
-    
-    **Playstore:** [play.google.com](https://play.google.com/store/apps/details?id=com.algorithmous.referime)
-
-5. **Waitforme**
-
-    **Technologies:** Ionic2, Rxjs, Firebase, AngularFire2, GeoFire, Firebase Cloud Functions, Firebase Cloud Notifications
-    
-    **Playstore:** [play.google.com](https://play.google.com/store/apps/details?id=com.happio.waitforme.rider&hl=en)
-
-    **Appstore:** [itunes.apple.com](https://itunes.apple.com/th/app/waitforme/id1241266805?mt=8)
 
 #### Open Source 
 
