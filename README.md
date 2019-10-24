@@ -40,6 +40,13 @@ Syntax highlighted code block
 |**MongoDB**|**MySQL**|**Firebase Realtime Database**|
 |**JWT Token**|**Firebase Security rules using Bolt**|
 |**Git**|**Github**|**Bitbuket**|
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syed-sameer1/protfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
