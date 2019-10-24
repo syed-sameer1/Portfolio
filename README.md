@@ -1,6 +1,8 @@
 # Syed Muhammad Sameer
 
-> I am an experienced, enthusiastic and self-motivated Full Stack Mobile First Web Developer with a great passion for Javascript, TypeScript, AngularJS/ Angular, Ionic, React, Bootstrap, Materialize, Flexbox, RxJs, Redux, ngRx, Gulp, WebPack, NodeJS/ExpressJS, Heruko, AWS Services, Serverless (AWS Lambda) MongoDB, MySql, Google Firebase.
+> Hi, I'm Syed Sameer! A Front End developer & open source enthusiast and freelancer passionate about web platform (especially JavaScript).
+I live in Karachi, Pakistan and pretty much enjoying my life.
+I've been working with JavaScript (React) for the last 1 years.
 
 ***
 
