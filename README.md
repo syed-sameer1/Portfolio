@@ -8,7 +8,7 @@ I've been working with JavaScript (React) for the last 1 years.
 
 ## Skills
 
-||||||
+|||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|
 |**React**|
