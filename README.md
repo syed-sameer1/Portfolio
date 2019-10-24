@@ -8,7 +8,7 @@
 
 ||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|**Typescript**|
+|**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|
 |**Jquery**|**Lodash**|**Rxjs**|**Redux**|**ngRx**|
 |**AngularFire**|**AngularFire2**|
 |**Angularjs**|**Angular**|**React**|**Vue**|
@@ -36,40 +36,44 @@
 
 2. **Stop-watch: :** [https://syed-sameer1.github.io/watch/](https://syed-sameer1.github.io/watch/)
 
-3. **WhatsApp-clone <API>: :** [https://syed-sameer1.github.io/whatsapp/](https://syed-sameer1.github.io/whatsapp/)
+3. **WhatsApp-clone: :** [https://syed-sameer1.github.io/whatsapp/](https://syed-sameer1.github.io/whatsapp/)
 
 4. **Super-mart: :** [https://syed-sameer1.github.io/super-mart/](https://syed-sameer1.github.io/super-mart/)
 
+#### HTML & CSS
 
+1. **Bata-clone: :** [https://syed-sameer1.github.io/Bata-task/](https://syed-sameer1.github.io/Bata-task/)
 
-#### Open Source 
+2. **Liberty books-clone: :** [: https://syed-sameer1.github.io/liberty-books-task/](: https://syed-sameer1.github.io/liberty-books-task/)
 
-  Angular Material Snippets for Atom | [Atom Market Place](https://atom.io/packages/atom-angular-material-snippets?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXvukosGMSaK9Jahp8hzDKw%3D%3D) | [Github](https://github.com/smkamranqadri/atom-angular-material-snippets) | [![apm install atom-angular-material-snippets](https://apm-badges.herokuapp.com/apm/atom-angular-material-snippets.svg)](https://atom.io/packages/atom-angular-material-snippets)
-  
-  Material Design Lite Snippets for Visual Studio Code | [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-material-design-lite-snippets) | [Github](https://github.com/smkamranqadri/vscode-material-design-lite-snippets) | ![](https://vsmarketplacebadge.apphb.com/installs-short/smkamranqadri.vscode-material-design-lite-snippets.svg)
-  
-  Bolt Language Support for Visual Studio Code | [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language) | [Github](https://github.com/smkamranqadri/vscode-bolt-language) | ![](https://vsmarketplacebadge.apphb.com/installs-short/smkamranqadri.vscode-bolt-language.svg)
-  
-  Tabs in Cloud - Chrome Extension | [Github](https://github.com/smkamranqadri/tabs-in-cloud-chrome-extension) | ![](https://img.shields.io/github/stars/smkamranqadri/tabs-in-cloud-chrome-extension.svg)
+3. **Feedback-Form: :** [https://syed-sameer1.github.io/Feedback-form-task/](https://syed-sameer1.github.io/Feedback-form-task/)
+
+4. **Wikipedia-clone: :** [https://syed-sameer1.github.io/Wikipedia-task/](https://syed-sameer1.github.io/Wikipedia-task/)
+
+5. **My-project-gallery: :** [https://syed-sameer1.github.io/gallery/](https://syed-sameer1.github.io/gallery/)
+
+6. **Emoji-grid: :** [https://syed-sameer1.github.io/emoji-4/]( https://syed-sameer1.github.io/emoji-4/)
+
+7. **Slack-clone: :** [https://syed-sameer1.github.io/slack/](https://syed-sameer1.github.io/slack/)
+
+8. **TechKaro-Web: :** [ https://syed-sameer1.github.io/19-may/]( https://syed-sameer1.github.io/19-may/)
+
+#### HTML & CSS
+
+1. **Rainbow: :** [https://syed-sameer1.github.io/rainbow-anim/](https://syed-sameer1.github.io/rainbow-anim/)
+
+2. **Divs: :** [https://syed-sameer1.github.io/position/](https://syed-sameer1.github.io/position/)
+
+3. **Ball: :** [https://syed-sameer1.github.io/Animation/](https://syed-sameer1.github.io/Animation/)
 
 
 #### Contact
 
-> [Github](https://github.com/smkamranqadri)
-
-> [Fiverr](https://www.fiverr.com/smkamranqadri)
-
-> [Upwork](https://www.upwork.com/o/profiles/users/_~0110e972200c426be4/)
-
-> [Medium](https://medium.com/@muhammadkamranqadri)
+> [Github](https://github.com/syed-sameer1)
 
 > [Linkedin](https://www.linkedin.com/in/smkamranqadri/)
 
-> [Facebook](facebook.com/devkamran)
+> [Facebook](https://web.facebook.com/SyedSameer6605)
 
-> Blog: blog.kamranqadri.me
-
-> Skype: smkamranqadri
-
-> [Email: contact@kamranqadri.me](mailto:contact@kamranqadri.me)
+> [Email: sameer.shah12570@gmail.com](gmail:sameer.shah12570@gmail.com)
 
