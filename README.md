@@ -11,16 +11,8 @@ I've been working with JavaScript (React) for the last 1 years.
 ||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|
-|**Jquery**|**Lodash**|**Rxjs**|**Redux**|**ngRx**|
-|**AngularFire**|**AngularFire2**|
-|**Angularjs**|**Angular**|**React**|**Vue**|
-|**Ionic1**|**Ionic2/3**|**React Native**|
-|**Nodejs**|**Expressjs**|**Mongoosejs**|**Sequelizejs**|**Firebase Admin**|
-|**Amazon Web Services (EC2, EB)**|**AWS Lambda Functions via Serverless Framework**|**Amazon S3 Storage**|
-|**Firebase Authentication**|**Firebase Cloud Messenging**|**Firebase Cloud Functions**|**Firebase Storage**|
-|**MongoDB**|**MySQL**|**Firebase Realtime Database**|
-|**JWT Token**|**Firebase Security rules using Bolt**|
-|**Git**|**Github**|**Bitbuket**|
+|**React**|
+|**Github**|
 
 ***
 
