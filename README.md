@@ -65,7 +65,7 @@ I've been working with JavaScript (React) for the last 1 years.
 
 > [Github](https://github.com/syed-sameer1)
 
-> [Linkedin](https://www.linkedin.com/in/smkamranqadri/)
+> [Linkedin](https://www.linkedin.com/in/syed-sameer-642b73185/)
 
 > [Facebook](https://web.facebook.com/SyedSameer6605)
 
