@@ -58,7 +58,7 @@ I've been working with JavaScript (React) for the last 1 years.
 
 8. **TechKaro-Web: :** [ https://syed-sameer1.github.io/19-may/]( https://syed-sameer1.github.io/19-may/)
 
-#### HTML & CSS
+#### Animations With HTML & CSS
 
 1. **Rainbow: :** [https://syed-sameer1.github.io/rainbow-anim/](https://syed-sameer1.github.io/rainbow-anim/)
 
