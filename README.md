@@ -22,7 +22,13 @@ I've been working with JavaScript (React) for the last 1 years.
 
 1. **GitHub-clone: :** [https://github-clone.syedsameer.now.sh/](https://github-clone.syedsameer.now.sh/)
 
-1. **Game-House: :** [https://game-hosue.syedsameer.now.sh/](https://game-hosue.syedsameer.now.sh/)
+2. **Game-House: :** [https://game-hosue.syedsameer.now.sh/](https://game-hosue.syedsameer.now.sh/)
+
+#### Php / Codigniter
+
+1. **Pak-Rashan: :** [http://pakrashan.com/](http://pakrashan.com/)
+
+2. **Dawaai: :** [http://dawaai.pk/](http://dawaai.pk/)
 
 #### JavaScript
 
